@@ -38,15 +38,17 @@ First make sure you download the following datasets:
 2. Install the required dependencies:
 TODO 
 ### Usage 
- 1. Training 
-TODO
+ 1. Training
+ ```bash
+  TODO
 
- 2. Evaluations
-TODO 
+ 3. Evaluations
+ ```bash
+ TODO
 
  ### Citation 
 If you use this paper, please cite our work  
-
+ ```bibtex
 TODO 
 
 
