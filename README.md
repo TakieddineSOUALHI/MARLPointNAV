@@ -40,11 +40,12 @@ TODO
 ### Usage 
  1. Training
  ```bash
-  TODO
+  python todo.py
 
  3. Evaluations
  ```bash
- TODO
+   python todo.py
+
 
  ### Citation 
 If you use this paper, please cite our work  
