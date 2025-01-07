@@ -7,10 +7,10 @@ This repository contains the code of the paper **"Learning Decentralized PointGo
 ![](https://github.com/TakieddineSOUALHI/MARLPointNAV/blob/main/video.gif)
 
 <div align="center">
-  <img src="https://github.com/TakieddineSOUALHI/MARLPointNAV/blob/main/subfig1.png" alt="Subfigure 1" width="24%">
-  <img src="https://github.com/TakieddineSOUALHI/MARLPointNAV/blob/main/subfig2.png" alt="Subfigure 2" width="24%">
-  <img src="https://github.com/TakieddineSOUALHI/MARLPointNAV/blob/main/subfig3.png" alt="Subfigure 3" width="24%">
-  <img src="https://github.com/TakieddineSOUALHI/MARLPointNAV/blob/main/subfig4.png" alt="Subfigure 4" width="24%">
+  <img src="https://github.com/TakieddineSOUALHI/MARLPointNAV/blob/main/0.gif" alt="Subfigure 1" width="24%">
+  <img src="https://github.com/TakieddineSOUALHI/MARLPointNAV/blob/main/1.gif" alt="Subfigure 2" width="24%">
+  <img src="https://github.com/TakieddineSOUALHI/MARLPointNAV/blob/main/2.gif" alt="Subfigure 3" width="24%">
+  <img src="https://github.com/TakieddineSOUALHI/MARLPointNAV/blob/main/3.gif" alt="Subfigure 4" width="24%">
 </div>
 ## Table of Contents
 
