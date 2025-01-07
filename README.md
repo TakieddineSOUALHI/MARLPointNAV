@@ -10,7 +10,7 @@ This repository contains the code of the paper **"Learning Decentralized PointGo
   <img src="https://github.com/TakieddineSOUALHI/MARLPointNAV/blob/main/0.gif" alt="Subfigure 1" width="24%">
   <img src="https://github.com/TakieddineSOUALHI/MARLPointNAV/blob/main/1.gif" alt="Subfigure 2" width="24%">
   <img src="https://github.com/TakieddineSOUALHI/MARLPointNAV/blob/main/2.gif" alt="Subfigure 3" width="24%">
-  <img src="https://github.com/TakieddineSOUALHI/MARLPointNAV/blob/main/3.gif" alt="Subfigure 4" width="24%">
+  <img src="https://github.com/TakieddineSOUALHI/MARLPointNAV/blob/main/3.gif" alt="Subfigure 4" width="20%" style=border: 2px solid black; margin: 5px;">
 </div>
 ## Table of Contents
 
@@ -30,8 +30,8 @@ First make sure you download the following datasets:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/decentralized-pointgoal-navigation.git
-   cd decentralized-pointgoal-navigation
+   git clone https://github.com/TakieddineSOUALHI/MARLPointNAV.git
+   cd MARLPointNAV
 
 2. Install the required dependencies:
 TODO 
