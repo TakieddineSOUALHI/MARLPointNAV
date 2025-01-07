@@ -39,15 +39,10 @@ First make sure you download the following datasets:
 TODO 
 ### Usage 
  1. Training
- ```bash
-  python todo.py
-
+TODO
 
  3. Evaluations
- ```bash
-   python todo.py
-
-
+TODO
 
  ### Citation 
 If you use this paper, please cite our work  
