@@ -6,11 +6,6 @@
 This repository contains the code of the paper **"Learning Decentralized PointGoal Navigation"**. The paper explores applying MARL to adrress the problem of PointGoal navigation in multi-robot settings, enabling agents to navigate efficiently in unknown environments while accounting for the presence of other agents.
 ![](https://github.com/TakieddineSOUALHI/MARLPointNAV/blob/main/video.gif)
 
-<div align="center">
-  <img src="https://github.com/TakieddineSOUALHI/MARLPointNAV/blob/main/0.gif" alt="Subfigure 1" width="20%" style=border: 60px solid red; margin: 5px;">
-  <img src="https://github.com/TakieddineSOUALHI/MARLPointNAV/blob/main/1.gif" alt="Subfigure 2" width="20%" style=border: 20px solid orange; margin: 5px;">
-  <img src="https://github.com/TakieddineSOUALHI/MARLPointNAV/blob/main/2.gif" alt="Subfigure 3" width="20%" style="border-color:Gray; border-style:solid; border-bottom:1px; border-left:1px; border-right:1px; border-top:4px; border-width:5px; border-radius: 6px;">
- </div>
   <div style="display: inline-block; margin: 5px; border: 2px solid black; padding: 2px;">
     <img src="https://github.com/TakieddineSOUALHI/MARLPointNAV/blob/main/4.gif" alt="Subfigure 4" width="20%">
 </div>
