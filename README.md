@@ -1,9 +1,6 @@
 
 # Learning Decentralized PointGoal Navigation
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Python](https://img.shields.io/badge/python-3.x-blue)
-
 ## Overview
 
 This repository contains the code of the paper **"Learning Decentralized PointGoal Navigation"**. The paper explores applying MARL to adrress the problem of PointGoal navigation in multi-robot settings, enabling agents to navigate efficiently in unknown environments while accounting for the presence of other agents.
@@ -12,8 +9,6 @@ This repository contains the code of the paper **"Learning Decentralized PointGo
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Code Structure](#code-structure)
-- [Experiments](#experiments)
 - [Citation](#citation)
 - [License](#license)
 
