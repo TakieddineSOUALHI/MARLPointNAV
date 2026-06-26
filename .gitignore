@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Data / datasets / assets
+igibson/data/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Training outputs / logs
+igibson/onpolicy/scripts/results/
+
+# Tests
+tests/
+
+# Misc
+*.log
+
+# TensorBoard logs
+events.out.tfevents.*
