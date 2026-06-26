@@ -28,3 +28,6 @@ tests/
 
 # TensorBoard logs
 events.out.tfevents.*
+
+# Scripts with credentials
+igibson/utils/data_utils/ext_object/scripts_wip/
